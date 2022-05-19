@@ -22,4 +22,4 @@ Mauricio, 24. Web Designer and Development. He/Him. Always learning. Brazil. Let
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </code>
 
-At moment(04/2022) learning C#
+
