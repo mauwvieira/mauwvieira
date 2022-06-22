@@ -1,6 +1,7 @@
 Hello world 👋
 
-Mauricio, 24. Web Designer and Development. He/Him. Always learning. Brazil. Lets work together 🤝
+Mauricio, 25. Web Designer and Front-end Dev. He/Him. Always learning. Brazil. Lets work together 🤝
+Currently(2022.05) studying C# for indie games!
 
 ## Social
 <code> [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/drxwbxt/)](https://www.instagram.com/maubem/)
