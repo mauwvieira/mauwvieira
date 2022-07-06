@@ -3,7 +3,7 @@ Hello world 👋
 Mauricio. Web Designer and Front-end Dev. He/Him. Always learning. Brazil. Lets work together 🤝 <br>
 Studying POO/C# for games!
 
-💎 Skill: HTML5, CSS3 (Bootstrap), JavaScript (Vue), Python <br>
+💎 Skill: HTML5, CSS3 (Bootstrap), UI/UX , JavaScript (Vue), Python <br>
 🔨 Tools: VSCode, Git, Docker, Figma, Adobe Photoshop/Premiere                <br>
 📲 Social: https://www.linkedin.com/in/mauricio-vieira-8661a1141/             <br>
 ➡️ mauwvieira@outlook.com.br 
