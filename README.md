@@ -1,6 +1,6 @@
 Hello world 👋
 
-Mauricio, 25. Web Designer and Front-end Dev. He/Him. Always learning. Brazil. Lets work together 🤝 <br>
+Mauricio. Web Designer and Front-end Dev. He/Him. Always learning. Brazil. Lets work together 🤝 <br>
 Currently(2022.05) studying C# for indie games!
 
 💎 Skill: HTML5, CSS3 (Bootstrap), JavaScript (React), Python <br>
