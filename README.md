@@ -4,7 +4,7 @@ Mauricio. Web Designer and Front-end Dev. He/Him. Always learning. Brazil. Lets 
 Studying POO for games!
 
 💎 Skill: HTML5, CSS3, UI/UX , JavaScript, Python <br>
-🔨 Tools: VSCode, Git, Docker, Figma, Adobe Photoshop               <br>
+🔨 Tools: VSCode, Figma, Adobe Photoshop and GIT              <br>
 📲 Social: https://www.linkedin.com/in/mauricio-vieira-8661a1141/             <br>
 ➡️ mauwvieira@outlook.com.br 
 
