@@ -1,6 +1,6 @@
 Hello world 👋
 
-Mauricio. Web Designer and full stack developer. He/Him. Always learning. Brazil. Lets work on a project together 🤝 <br>
+Mauricio. Web Designer and full stack developer. He/Him. Always learning. Brazil. Send a message for a project! 🤝 <br>
 
 
 💎 SkillS: HTML5, CSS3, UI/UX , JavaScript( Typescript, NodeJS)  <br>
