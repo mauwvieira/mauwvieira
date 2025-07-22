@@ -1,4 +1,4 @@
-Hello world 👋
+👋
 
 Mauricio. Web Designer and full stack developer. He/Him. Brazil. <br>
 
