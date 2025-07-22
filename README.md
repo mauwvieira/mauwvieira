@@ -1,11 +1,14 @@
 Hello world 👋
 
-Mauricio. Web Designer and full stack developer. He/Him. Always learning. Brazil. Send a message for a project! 🤝 <br>
+Mauricio. Web Designer and full stack developer. He/Him. Brazil.  <br>
 
 
-💎 SkillS: HTML5, CSS3, UI/UX , JavaScript( Typescript, NodeJS)  <br>
-🔨 Tools: VSCode, Figma, Adobe Photoshop and GIT  <br>
-📲 Social: https://www.linkedin.com/in/mauricio-vieira-8661a1141/  <br>
+JavaScript Typescript NodeJS PHP MySQL PostgreSQL MongoDB  <br>
+VSCode Figma Adobe Photoshop GIT GitLab <br>
+
+Find me for a project, friendship, help, being helped or a good coffee recommendation.🤝
+Ig: @maubem
+Linkedin: https://www.linkedin.com/in/mauricio-vieira-8661a1141/  <br>
 
 
 
